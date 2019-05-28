@@ -1,4 +1,4 @@
 # Changelog
 
-## 1.0 (28/05/2019)
+## 1.0 (27/10/2018)
 *No changelog for this release.*
